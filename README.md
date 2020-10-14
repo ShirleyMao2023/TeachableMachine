@@ -1,3 +1,3 @@
 # Teachable Machine
-cats and dogs
+Identifying cats and dogs.
 Data collected from kaggle.
